@@ -5,7 +5,7 @@ concurrently([
     name: "server",
     command: "bun run dev",
     cwd: "packages/server",
-    prefixColor: "red",
+    prefixColor: "cyan",
   },
   {
     name: "client",
