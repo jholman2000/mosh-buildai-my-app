@@ -13,9 +13,9 @@ function App() {
     return (
         <div className="p-4">
             <p className="font-bold text-3xl">App.tsx says: {message}</p>
-            <Button>Click Me</Button>
+                  <Button>Click Me!</Button>
         </div>
-    );
+    )
 }
 
 export default App;
